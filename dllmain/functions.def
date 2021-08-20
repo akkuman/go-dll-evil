@@ -1,0 +1,3 @@
+LIBRARY _add.dll
+EXPORTS
+    add = _add.add @1
