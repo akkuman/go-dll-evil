@@ -1,4 +1,4 @@
-# 有关 dll 的 golang windows 恶意代码示例
+# 有关 dll 转发的 golang windows 恶意代码示例
 
 以下均以x64作为示例，如果需要x86，将x64替换为x86即可
 
